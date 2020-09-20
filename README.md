@@ -22,7 +22,7 @@
   <a href="https://www.instagram.com/_sanketmhatre_/">
     <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
-  <a href="mailto:sanketmhatre7738@gmail.com">
+  <a href="mailto:sanket.mhatre@vit.edu.in">
     <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
   <a href="https://medium.com/@sanketmhatre7738">
