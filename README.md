@@ -14,7 +14,3 @@
 
 [![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=SANKET7738&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SANKET7738&repo=fake-news-classifier)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SANKET7738&repo=Rotten-Scripts)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SANKET7738&repo=movieinfo)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=SANKET7738&repo=Get-It-Done)](https://github.com/anuraghazra/github-readme-stats)
