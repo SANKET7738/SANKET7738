@@ -1,7 +1,7 @@
 # Hi there <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> , I'm Sanket Mhatre
 
 
-- 🔭 I’m currently working on **Easy-Solutions**.
+- 🔭 I’m currently working on **crop-recommendation-system**.
 - 🌱 I’m currently learning Natural Language Processing, Django and Machine Learning.
 - 👯 I’m looking to collaborate on web and ML projects.
 - 🤔 I’m looking for help with Easy-Solutions.
