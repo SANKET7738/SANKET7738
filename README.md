@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Natural Language Processing, Django and Machine Learning.
 - 👯 I’m looking to collaborate on web and ML projects.
 - 🤔 I’m looking for help with Easy-Solutions.
-- 💬 Ask me about how to get started with **Python**, **Web-Development** , **Open-Source** and any other tech realted talks.
+- 💬 Ask me about how to get started with **Python**, **Web-Development** , **Open-Source** and any other tech related talks.
 - 📫 How to reach me: sanket.mhatre@vit.edu.in
 - ⚡ Fun fact: I play games 🎮 and i love long drives 🚗.
 
