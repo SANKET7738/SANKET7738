@@ -1,10 +1,10 @@
 # Hi there <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> , I'm Sanket Mhatre
 
 
-- 🔭 I’m currently working on **crop-recommendation-system**.
-- 🌱 I’m currently learning Natural Language Processing, Django and Machine Learning.
+- 🔭 I’m currently working on **ez-sim**.
+- 🌱 I’m currently learning React-Native.
 - 👯 I’m looking to collaborate on web and ML projects.
-- 🤔 I’m looking for help with Easy-Solutions.
+- 🤔 I’m looking for help with easy-solutions.
 - 💬 Ask me about how to get started with **Python**, **Web-Development** , **Open-Source** and any other tech related talks.
 - 📫 How to reach me: sanket.mhatre@vit.edu.in
 - ⚡ Fun fact: I play games 🎮 and i love long drives 🚗.
