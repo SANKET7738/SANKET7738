@@ -1,4 +1,4 @@
-# Hi there <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> , I'm Sanket Mhatre
+<!-- # Hi there <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> , I'm Sanket Mhatre
 
 
 - 🔭 I’m currently working on **ez-sim**.
@@ -8,7 +8,7 @@
 - 💬 Ask me about how to get started with **Python**, **Web-Development** , **Open-Source** and any other tech related talks.
 - 📫 How to reach me: sanket.mhatre@vit.edu.in
 - ⚡ Fun fact: I play games 🎮 and i love long drives 🚗.
-
+ -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANKET7738&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   
 
