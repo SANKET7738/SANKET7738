@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANKET7738&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   
 
-[![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=SANKET7738&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+<!-- [![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=SANKET7738&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### Connect with me
 <p align="center">
@@ -28,4 +28,4 @@
   <a href="https://medium.com/@sanketmhatre7738">
     <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
   </a>
- </p>
+ </p> -->
